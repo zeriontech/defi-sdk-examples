@@ -1,0 +1,19 @@
+{
+  "name": "defi-sdk-example",
+  "version": "0.0.1",
+  "description": "Example of using DeFi SDK in Node JS",
+  "main": "ethers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "defi"
+  ],
+  "author": "@rockfridrich",
+  "license": "MIT",
+  "dependencies": {
+    "bignumber.js": "^9.0.0",
+    "ethers": "^4.0.47",
+    "web3": "^1.2.7"
+  }
+}
