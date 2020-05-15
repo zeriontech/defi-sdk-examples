@@ -4,7 +4,7 @@ const ethers = require('ethers');
 const DeFiSdkAbi = require('../defi-sdk-abi')
 const BN = require('bignumber.js')
 
-const nodeUrl = 'https://cloudflare-eth.com';
+const nodeUrl = 'https://eth-mainnet.zerion.io/';
 const DeFiSdkAddress = '0x06FE76B2f432fdfEcAEf1a7d4f6C3d41B5861672';
 const userAddress = '0x42b9dF65B219B3dD36FF330A4dD8f327A6Ada990';
 
